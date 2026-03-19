@@ -61,6 +61,6 @@ After deployed, map the worker to a Domain Name to configure cache. Only Workers
 ## License 🎯
 
 - Licensed under [Apache-2.0](https://github.com/tuhinpal/imdb-api/blob/master/LICENSE)
-- Made by [Tuhin Kanti Pal](https://github.com/tuhinpal)
+- Made by [Tuhin Kanti Pal and LastPerson07 ]( https://github.com/Lastperson07)
 
 ### Have a good day 🤘
